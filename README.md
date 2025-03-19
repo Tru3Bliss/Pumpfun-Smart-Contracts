@@ -82,7 +82,9 @@ Each implementation includes:
 
 - **Demo Video**:
 
-  ![Pumpfun Raydium Demo](videos/pumpRaydium.mp4)
+  ![Pumpfun Raydium Demo]
+
+https://github.com/user-attachments/assets/280757e0-4315-483e-b698-54468b5514c2
 
 - **Transaction Examples**:
   - Config: [https://solscan.io/tx/5obvCaiH2KeFLX2RXeaXEWL2ndC853jHgEfVotexoKL9nJJ9KjMjs3ANSFc5wPbhC2CJFarF3FfUirL49SjBSH4Q?cluster=custom&customUrl=https://api.devnet.solana.com]

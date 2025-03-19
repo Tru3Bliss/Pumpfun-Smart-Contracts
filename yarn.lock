@@ -288,6 +288,21 @@
     decimal.js "10.3.1"
     jsbi "4.3.0"
 
+"@mercurial-finance/vault-sdk@2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@mercurial-finance/vault-sdk/-/vault-sdk-2.2.1.tgz#37512a987022e0cb751d21f902d65934e5ad4cac"
+  integrity sha512-65EG57BCRGg5tys9wcuAfhW1fGedMHTCN1Gdzn9qrz44ctQIM2hg3unb/KKSpk+BahtQRXhq8y7M3gtcCkTMQQ==
+  dependencies:
+    "@coral-xyz/anchor" "^0.28.0"
+    "@solana/buffer-layout" "^4.0.1"
+    "@solana/spl-token" "^0.4.6"
+    "@solana/spl-token-registry" "^0.2.4574"
+    "@solana/web3.js" "^1.91.6"
+    bn.js "5.2.1"
+    cross-fetch "^3.1.5"
+    decimal.js "10.3.1"
+    jsbi "4.3.0"
+
 "@metaplex-foundation/beet-solana@^0.4.0":
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/@metaplex-foundation/beet-solana/-/beet-solana-0.4.1.tgz#255747aa7feee1c20202146a752c057feca1948f"
@@ -783,7 +798,7 @@
     "@solana/spl-token-metadata" "^0.1.2"
     buffer "^6.0.3"
 
-"@solana/spl-token@^0.4.6":
+"@solana/spl-token@^0.4.6", "@solana/spl-token@^0.4.8":
   version "0.4.12"
   resolved "https://registry.yarnpkg.com/@solana/spl-token/-/spl-token-0.4.12.tgz#09361f9c8116f277b177dbcae7e3a273a19cd48a"
   integrity sha512-K6CxzSoO1vC+WBys25zlSDaW0w4UFZO/IvEZquEI35A/PjqXNQHeVigmDCZYEJfESvYarKwsr8tYr/29lPtvaw==
@@ -792,18 +807,6 @@
     "@solana/buffer-layout-utils" "^0.2.0"
     "@solana/spl-token-group" "^0.0.7"
     "@solana/spl-token-metadata" "^0.1.6"
-    buffer "^6.0.3"
-
-"@solana/spl-token@^0.4.8":
-  version "0.4.11"
-  resolved "https://registry.yarnpkg.com/@solana/spl-token/-/spl-token-0.4.11.tgz#331ccba30495c62f6dc4c1b8c1454f2c4e2a09fc"
-  integrity sha512-wG9I5nPpRCseiJ3+LyO0Fa8MJsecg6v32zPsP2nZYn/VyfGYET1DkhXVtqLE3dkVSjrt+2ILc9iewOX5L0hpGA==
-  dependencies:
-    "@solana/buffer-layout" "^4.0.0"
-    "@solana/buffer-layout-utils" "^0.2.0"
-    "@solana/spl-token-group" "^0.0.7"
-    "@solana/spl-token-metadata" "^0.1.6"
-    "@solana/zk-sdk" "0.1.0"
     buffer "^6.0.3"
 
 "@solana/web3.js@^1.17.0", "@solana/web3.js@^1.21.0", "@solana/web3.js@^1.32.0", "@solana/web3.js@^1.36.0", "@solana/web3.js@^1.56.2", "@solana/web3.js@^1.66.2", "@solana/web3.js@^1.68.0", "@solana/web3.js@^1.91.6", "@solana/web3.js@^1.95.5", "@solana/web3.js@^1.95.8", "@solana/web3.js@^1.98.0":
@@ -826,11 +829,6 @@
     node-fetch "^2.7.0"
     rpc-websockets "^9.0.2"
     superstruct "^2.0.2"
-
-"@solana/zk-sdk@0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@solana/zk-sdk/-/zk-sdk-0.1.0.tgz#f0d5f0bec8688962332dc1fd817627dda493bef6"
-  integrity sha512-5iWTokAx6sOLSJVj7wABhhHtJ2KifXP1yjefBwXhd/BNwl+ZmI5KwQEGPYHGJEDabhqwam2Kwly7N+k0Bj7Bng==
 
 "@swc/helpers@^0.5.11":
   version "0.5.15"

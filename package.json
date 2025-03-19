@@ -8,7 +8,7 @@
   "dependencies": {
     "@coral-xyz/anchor": "^0.30.1",
     "@mercurial-finance/dynamic-amm-sdk": "^1.1.19",
-    "@mercurial-finance/vault-sdk": "2.2.0",
+    "@mercurial-finance/vault-sdk": "2.2.1",
     "@metaplex-foundation/umi": "^0.9.1",
     "@metaplex-foundation/umi-bundle-defaults": "^0.9.1",
     "@metaplex-foundation/umi-web3js-adapters": "^0.9.1",

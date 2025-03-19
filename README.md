@@ -1,15 +1,22 @@
-# Pumpfun Smart Contract Migrations
+# 🚀 Pumpfun Smart Contract - Raydium & Meteora DEX Integration
 
-## Overview
+> Advanced Solana-based Pumpfun implementation with dual DEX support for Raydium and Meteora, featuring automated token management, virtual pools, and seamless migration capabilities.
 
-This repository contains two different implementations of Pumpfun smart contracts:
+[![Solana](https://img.shields.io/badge/Solana-Compatible-blue)](https://solana.com)
+[![Raydium](https://img.shields.io/badge/Raydium-Integration-green)](https://raydium.io)
+[![Meteora](https://img.shields.io/badge/Meteora-Integration-purple)](https://meteora.ag)
 
-1. **Raydium Version**: A customized Pumpfun implementation migrated to Raydium
-2. **Meteora Version**: A customized Pumpfun implementation migrated to Meteora
+## 🌟 Overview
 
-Both implementations are built on the Solana blockchain, each optimized for their respective DEX platforms.
+The most comprehensive Pumpfun smart contract implementation for Solana, featuring:
 
-## Key Features
+1. **Raydium Integration**: Complete Pumpfun implementation with Raydium DEX support
+2. **Meteora Integration**: Advanced Pumpfun implementation with Meteora DEX support
+3. **Cross-Platform Migration**: Seamless token migration between Raydium and Meteora
+
+Keywords: `pumpfun`, `solana`, `raydium`, `meteora`, `defi`, `smart-contract`, `virtual-pools`, `token-management`
+
+## 🔍 Key Features
 
 ### Smart Contract Capabilities
 
@@ -39,6 +46,21 @@ Both implementations are built on the Solana blockchain, each optimized for thei
   - Stable price curve implementation
   - Configurable curve limits and fees
   - Real-time price stability monitoring
+
+## 📊 Technical Specifications
+
+- **Blockchain**: Solana
+- **Smart Contract Language**: Rust
+- **Supported DEXes**:
+  - Raydium
+  - Meteora
+- **Features**:
+  - Virtual Pool Management
+  - Automated Token Creation
+  - Cross-DEX Migration
+  - Price Stability Control
+  - Sniper Protection
+  - Presale Management
 
 ## Features
 

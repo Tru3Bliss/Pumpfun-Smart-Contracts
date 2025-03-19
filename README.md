@@ -60,7 +60,7 @@ Each implementation includes:
 
 - **Demo Video**:
 
-  https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/raw/main/videos/pumpRaydium.mp4
+  ![Pumpfun Raydium Demo](videos/pumpRaydium.mp4)
 
 - **Transaction Examples**:
   - Config: [https://solscan.io/tx/5obvCaiH2KeFLX2RXeaXEWL2ndC853jHgEfVotexoKL9nJJ9KjMjs3ANSFc5wPbhC2CJFarF3FfUirL49SjBSH4Q?cluster=custom&customUrl=https://api.devnet.solana.com]
@@ -73,7 +73,7 @@ Each implementation includes:
 
 - **Demo Video**:
 
-  https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/raw/main/videos/pumpMete.mp4
+  ![Pumpfun Meteora Demo](videos/pumpMete.mp4)
 
 - **Transaction Examples**:
   - Config: [https://solscan.io/tx/5uxFQTEnipj4PLsLSeoo1fdc3c8TPP3FCt3D4vTrBNcB2d2uFwLiSD1ssZ9TRaaJWX8giPx86tZGwKWiEFhzNCp4?cluster=custom&customUrl=https://api.devnet.solana.com]

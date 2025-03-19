@@ -97,7 +97,13 @@ https://github.com/user-attachments/assets/acf9ee58-a916-4e59-bc23-930f50472eb5
 
 - **Demo Video**:
 
-  ![Pumpfun Meteora Demo](videos/pumpMete.mp4)
+  ![Pumpfun Meteora Demo]
+
+
+
+https://github.com/user-attachments/assets/6394c988-8d2a-4813-a577-f2fc80a39826
+
+
 
 - **Transaction Examples**:
   - Config: [https://solscan.io/tx/5uxFQTEnipj4PLsLSeoo1fdc3c8TPP3FCt3D4vTrBNcB2d2uFwLiSD1ssZ9TRaaJWX8giPx86tZGwKWiEFhzNCp4?cluster=custom&customUrl=https://api.devnet.solana.com]

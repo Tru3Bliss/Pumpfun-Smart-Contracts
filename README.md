@@ -84,7 +84,6 @@ Each implementation includes:
 
   ![Pumpfun Raydium Demo]
 
-
 - **Transaction Examples**:
   - Config: [https://solscan.io/tx/5obvCaiH2KeFLX2RXeaXEWL2ndC853jHgEfVotexoKL9nJJ9KjMjs3ANSFc5wPbhC2CJFarF3FfUirL49SjBSH4Q?cluster=custom&customUrl=https://api.devnet.solana.com]
   - Pool Creation: [https://solscan.io/tx/4hukGNLV8CfpXLwpML4n4jFDP1t6xyP7nn1atc5NhQvto8thSj3DqgSuh2oVGUgCxU8SjuoTrsyX5VuA34L8Mvnw?cluster=custom&customUrl=https://api.devnet.solana.com]
@@ -148,6 +147,7 @@ Each implementation includes:
 For questions or inquiries about either the Raydium or Meteora Pumpfun smart contract development, please reach out to the project maintainers.
 
 **Telegram**: [@Tru3B1iss](https://t.me/Tru3B1iss)
+**X (Twitter)**: [@XTruebliss](https://x.com/XTruebliss)
 
 ## Disclaimer
 

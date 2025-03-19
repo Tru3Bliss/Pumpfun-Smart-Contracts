@@ -84,7 +84,6 @@ Each implementation includes:
 
   ![Pumpfun Raydium Demo]
 
-https://github.com/user-attachments/assets/acf9ee58-a916-4e59-bc23-930f50472eb5
 
 - **Transaction Examples**:
   - Config: [https://solscan.io/tx/5obvCaiH2KeFLX2RXeaXEWL2ndC853jHgEfVotexoKL9nJJ9KjMjs3ANSFc5wPbhC2CJFarF3FfUirL49SjBSH4Q?cluster=custom&customUrl=https://api.devnet.solana.com]
@@ -98,12 +97,6 @@ https://github.com/user-attachments/assets/acf9ee58-a916-4e59-bc23-930f50472eb5
 - **Demo Video**:
 
   ![Pumpfun Meteora Demo]
-
-
-
-https://github.com/user-attachments/assets/6394c988-8d2a-4813-a577-f2fc80a39826
-
-
 
 - **Transaction Examples**:
   - Config: [https://solscan.io/tx/5uxFQTEnipj4PLsLSeoo1fdc3c8TPP3FCt3D4vTrBNcB2d2uFwLiSD1ssZ9TRaaJWX8giPx86tZGwKWiEFhzNCp4?cluster=custom&customUrl=https://api.devnet.solana.com]

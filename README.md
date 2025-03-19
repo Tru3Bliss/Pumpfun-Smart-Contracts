@@ -148,7 +148,7 @@ For questions or inquiries about either the Raydium or Meteora Pumpfun smart con
 
 **Telegram**: [@Tru3B1iss](https://t.me/Tru3B1iss)
 **X (Twitter)**: [@XTruebliss](https://x.com/XTruebliss)
-**Discord**: [@Tru3Bliss](https://discord.com/users/1274339638668038187)
+**Discord**: [@trueb1iss](https://discord.com/users/1274339638668038187)
 
 > Note: The frontend and backend components are developed and maintained privately. The complete implementation including Raydium and Meteora migration features, along with other detailed code, is reserved for private access. Please contact us for more information about the project's features and capabilities.
 

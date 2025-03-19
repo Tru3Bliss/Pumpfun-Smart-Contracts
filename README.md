@@ -149,6 +149,8 @@ For questions or inquiries about either the Raydium or Meteora Pumpfun smart con
 **Telegram**: [@Tru3B1iss](https://t.me/Tru3B1iss)
 **X (Twitter)**: [@XTruebliss](https://x.com/XTruebliss)
 
+> Note: The frontend and backend components are developed and maintained privately. The complete implementation including Raydium and Meteora migration features, along with other detailed code, is reserved for private access. Please contact us for more information about the project's features and capabilities.
+
 ## Disclaimer
 
 This project is for educational and development purposes only. Users should conduct their own research and due diligence before interacting with any smart contracts.

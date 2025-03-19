@@ -59,7 +59,9 @@ Each implementation includes:
 ### Raydium Implementation
 
 - **Demo Video**:
-  <video src="videos/pumpRaydium.mp4" controls width="100%"></video>
+
+  https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/raw/main/videos/pumpRaydium.mp4
+
 - **Transaction Examples**:
   - Config: [https://solscan.io/tx/5obvCaiH2KeFLX2RXeaXEWL2ndC853jHgEfVotexoKL9nJJ9KjMjs3ANSFc5wPbhC2CJFarF3FfUirL49SjBSH4Q?cluster=custom&customUrl=https://api.devnet.solana.com]
   - Pool Creation: [https://solscan.io/tx/4hukGNLV8CfpXLwpML4n4jFDP1t6xyP7nn1atc5NhQvto8thSj3DqgSuh2oVGUgCxU8SjuoTrsyX5VuA34L8Mvnw?cluster=custom&customUrl=https://api.devnet.solana.com]
@@ -70,7 +72,9 @@ Each implementation includes:
 ### Meteora Implementation
 
 - **Demo Video**:
-  <video src="videos/pumpMete.mp4" controls width="100%"></video>
+
+  https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/raw/main/videos/pumpMete.mp4
+
 - **Transaction Examples**:
   - Config: [https://solscan.io/tx/5uxFQTEnipj4PLsLSeoo1fdc3c8TPP3FCt3D4vTrBNcB2d2uFwLiSD1ssZ9TRaaJWX8giPx86tZGwKWiEFhzNCp4?cluster=custom&customUrl=https://api.devnet.solana.com]
   - Pool Creation: [https://solscan.io/tx/5rkgtsM7kE9Ra5yEjgxUr8rKnq7S7fwfCQZTMXGuXEX9364FEewycFhegaCqdDo7cVsgomsrZ7F82TUSjr2kKikf?cluster=custom&customUrl=https://api.devnet.solana.com]
